@@ -4,7 +4,7 @@
 
 // TODO: Update these with your actual Supabase credentials
 const SUPABASE_URL = 'https://kamqpgsrxhxuxsvccrra.supabase.co';
-const SUPABASE_ANON_KEY = 'your-actual-anon-key';
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImthbXFwZ3NyeGh4dXhzdmNjcnJhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDQyMzM0NTAsImV4cCI6MjA1OTgwOTQ1MH0.rT44_bJTOnOz_pdrOT7o7X_Y3fEPhiB1jzjmLetGYyc';
 
 // Initialize Supabase client (only if Supabase script is loaded)
 let supabaseClient = null;
